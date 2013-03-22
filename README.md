@@ -1,8 +1,6 @@
 mambo
 =====
 
-mambo
-
 To run(first time):
 
 ./sbt 
